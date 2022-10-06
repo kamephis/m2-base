@@ -4,6 +4,7 @@
   "description": "Basic functionalities",
   "type": "magento2-module",
   "require": {
+    "php": ">=7.4",
     "magento/framework": "*"
   },
   "license": [
