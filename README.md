@@ -1,2 +1,3 @@
-# m2-core
-Kamephis core module
+# Kamephis base module
+
+Basic functionality for all kamephis magento 2 modules.
