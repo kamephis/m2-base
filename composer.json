@@ -1,15 +1,12 @@
 {
   "name": "kamephis/m2-base",
-  "version": "1.0.2",
   "description": "Basic functionalities",
   "type": "magento2-module",
   "require": {
     "php": ">=7.4",
-    "magento/framework": "*"
+    "magento/framework" : "^102.0.0||^103.0.0"
   },
-  "license": [
-    "GNU General Public License (GPL)"
-  ],
+  "license" : "Apache-2.0",
   "authors": [
     {
       "name": "Marlon Boehland",
